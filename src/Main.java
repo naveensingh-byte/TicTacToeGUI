@@ -11,7 +11,7 @@ public class Main extends JFrame implements ActionListener {
     public Main() {
         // Configure main window
         setTitle("Tic-Tac-Toe");
-        setSize(450, 500);
+        setSize(500, 550);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
 
